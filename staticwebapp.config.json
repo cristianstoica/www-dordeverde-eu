@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/",
+            "redirect": "https://dordeverde.ro/",
+            "statusCode": 301
+        }
+    ]
+}
